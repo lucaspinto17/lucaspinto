@@ -7,8 +7,6 @@
 
 ### Software Engenieer · Web Developer · Embaixador Estudantil Google 2026
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=00D4AA\&center=true\&vCenter=true\&width=600\&lines=Transformando+dados+em+decis%C3%B5es+inteligentes;Generative+AI+%7C+Agents+%7C+Deep+Learning;IBM+%7C+CESUPA+%7C+LAPES+%7C+GETA)](https://git.io/typing-svg)
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-pinto-364354369/)
